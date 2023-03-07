@@ -2,7 +2,7 @@
 
 Hello world!  
 
-The "#" denotes a main header.
+The "#" denotes a main header!
 
 Here's some plain text!!
 
